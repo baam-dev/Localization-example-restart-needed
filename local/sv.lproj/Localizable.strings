@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  local
+
+  Created by Amir Bakhshi on 2021-10-07.
+  
+*/
+
+"English" = "Engelska";
+"Swedish" = "Svenska";
+"Language" = "Språk";
+"Changing language requires the app to be restarted." = "För att ändringen ska ta effekt, behöver appen startas om.";

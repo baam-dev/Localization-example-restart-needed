@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Car"; ObjectID = "URB-uT-KRW"; */
+"URB-uT-KRW.text" = "Welcome";
+
+/* Class = "UIButton"; configuration.title = "Swedish"; ObjectID = "dwv-Ie-pao"; */
+"dwv-Ie-pao.configuration.title" = "Swedish";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dwv-Ie-pao"; */
+"dwv-Ie-pao.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "English"; ObjectID = "oFF-Yp-h9s"; */
+"oFF-Yp-h9s.configuration.title" = "English";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oFF-Yp-h9s"; */
+"oFF-Yp-h9s.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "rdW-CP-DMz"; */
+"rdW-CP-DMz.title" = "Settings";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "vll-CX-gHJ"; */
+"vll-CX-gHJ.title" = "Favorites";
